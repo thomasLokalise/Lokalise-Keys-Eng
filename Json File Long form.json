@@ -1,18 +1,3 @@
-
-{
-  "menu": {
-    "en": "English 1",
-    "ru": "Russian",
-    "home": "Home",
-    "about": "About"
-  },
-  "main": {
-    "welcome": "Hello from {company}!",
-    "new_message": "no messages | one message | {count} messages"
-  },
-  "about": {
-    "welcome": "Welcome to the About page!"
-  }
 {
     "Try_all_features_for_14_days_·_No_credit_card_required": "Try all features for 14 days · No credit card required",
     "Log_In": "Log In",
