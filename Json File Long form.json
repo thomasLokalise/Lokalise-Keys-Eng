@@ -1,6 +1,7 @@
 {
     "Try_all_features_for_14_days_·_No_credit_card_required": "Try all features for 14 days · No credit card required",
     "Log_In": "Log In",
+     "Log_Ins": "Log Ins"
     "•••••••••••••": "•••••••••••••",
     "Sign_Up_with_Google": "Sign Up with Google",
     "E-mail": "E-mail",
@@ -89,3 +90,4 @@
     "test": "Click here  %s",
     "json_web_name": "Click here"
 }
+
